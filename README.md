@@ -1,7 +1,7 @@
 Project Overview
 This project implements a machine learning-based system for predicting diabetes risk in patients. The system uses various health metrics to provide early risk assessment, potentially enabling timely medical intervention.
 
-Features
+Features:
 Interactive web interface using Streamlit
 Real-time prediction based on user input
 Confidence score for predictions
